@@ -1,5 +1,7 @@
 # nodal-python
 Graph theory and Dijstra's visualized
+Intended for visualization, not at all optimized
+for large networks
 
 CURRENT NODE WILL APPEAR ORANGE
 
